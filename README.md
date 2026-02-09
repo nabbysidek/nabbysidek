@@ -1,12 +1,12 @@
 ## Hello 👋
 
-I'm Aina Balqis, a full-stack developer based in Malaysia.
+I'm Aina Balqis, a frontend engineer based in Malaysia.
 
-I mainly work on frontend development using React, TypeScript, and Tailwind, with some animation magic using GSAP and Framer Motion. I also design in Figma, and I can jump into UX tasks when needed.
+I build things on the frontend with React, TypeScript, and Tailwind, sprinkle in animations, mess around in Figma, and love a good UX challenge.
 
 ### Tools & Tech
 **Dev:**
-React, TypeScript, Tailwind, GSAP, Framer Motion
+React, TypeScript, Tailwind, GSAP, Framer Motion, PHP, Laravel
 
 **Design:**
 Figma, Illustrator, Photoshop, Affinity Designer, After Effects
