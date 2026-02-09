@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hello 👋
 
-<!--
-**nabbysidek/nabbysidek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Aina Balqis, a full-stack developer based in Malaysia.
 
-Here are some ideas to get you started:
+I mainly work on frontend development using React, TypeScript, and Tailwind, with some animation magic using GSAP and Framer Motion. I also design in Figma, and I can jump into UX tasks when needed.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools & Tech
+**Dev:**
+React, TypeScript, Tailwind, GSAP, Framer Motion
+
+**Design:**
+Figma, Illustrator, Photoshop, Affinity Designer, After Effects
+
+### A bit about me
+* I adore cats. I have a self-professed princess at home.
+* I like building things — even if I don’t know how yet, I’ll still try to make it happen. Honest work, that's all that matters.
